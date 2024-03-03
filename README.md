@@ -30,7 +30,7 @@ This app will provide quality education to multicultural students, and reduce in
 
 
 ## 🎥 Demo Video Link
-[![Linkor](https://github.com/Linkor-GDSC/Linkor-BE/assets/145983280/b1603463-8139-4408-aac9-a817a016ed19)](https://www.youtube.com/watch?v=teQnBAYqXds)
+[![Linkor](https://github.com/Linkor-GDSC/Linkor-BE/assets/145983280/b1603463-8139-4408-aac9-a817a016ed19)](https://www.youtube.com/watch?v=r5wCOYuVlFg)
 
 
 ## 📱 Features
